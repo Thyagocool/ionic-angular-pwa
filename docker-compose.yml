@@ -1,0 +1,11 @@
+version: "3.9"
+
+services:
+  pwa:
+    image: ionic-pwa
+    build:
+      context: .
+    container_name: ionic-pwa
+    restart: always
+    ports:
+      - "80:80"

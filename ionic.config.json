@@ -1,0 +1,7 @@
+{
+  "name": "pwa-domino-score",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
