@@ -1,0 +1,125 @@
+{
+  "configVersion": 1,
+  "timestamp": 1767571469582,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/chunk-36ESZ2IJ.js",
+        "/chunk-3XMQAUZW.js",
+        "/chunk-42C7ZIID.js",
+        "/chunk-4Q3IAWUX.js",
+        "/chunk-4WFVMWDK.js",
+        "/chunk-5YRSB2DL.js",
+        "/chunk-BAGT6LPP.js",
+        "/chunk-CLDSZD2A.js",
+        "/chunk-DVVH2KKN.js",
+        "/chunk-EBR2FFRC.js",
+        "/chunk-FA25AEA4.js",
+        "/chunk-FNBMHXHF.js",
+        "/chunk-H2UQMALX.js",
+        "/chunk-JH266P56.js",
+        "/chunk-JHI3MBHO.js",
+        "/chunk-M2X7KQLB.js",
+        "/chunk-M5P7WWVC.js",
+        "/chunk-N5R6D5RA.js",
+        "/chunk-NCK4AMHI.js",
+        "/chunk-NHXDGK5N.js",
+        "/chunk-NV3QH4JK.js",
+        "/chunk-OZYWYLNK.js",
+        "/chunk-P5FJYL7I.js",
+        "/chunk-RSSLQG4E.js",
+        "/chunk-ULUBRAOE.js",
+        "/chunk-VI5DG32M.js",
+        "/index.html",
+        "/main-R5ITMSR2.js",
+        "/manifest.webmanifest",
+        "/polyfills-TDCRLYKL.js",
+        "/styles-6KTEQGYX.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/icon/favicon.png",
+        "/assets/icons/icon-192.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-512.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/shapes.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/icon/favicon.png": "7798b8e0eb61d7375c245af78bbf5c916932bf13",
+    "/assets/icons/icon-192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/assets/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/assets/icons/icon-512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/assets/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/assets/shapes.svg": "5413e95adabcb2cb639970051f55e0ddb64ace53",
+    "/chunk-36ESZ2IJ.js": "8495b74091e3bf0853f7c2819276d38ed3fd9bdf",
+    "/chunk-3XMQAUZW.js": "ed56eb42564b884d309144ab0c8c40de710e875c",
+    "/chunk-42C7ZIID.js": "9a4312a44cc8ab8573488a48a18c01a6bb352c6b",
+    "/chunk-4Q3IAWUX.js": "22c04dbc9848d70017f16ebf5948b8e5bdfc081a",
+    "/chunk-4WFVMWDK.js": "5b6d47107e58373ea3dc79e4e6878406e21505e8",
+    "/chunk-5YRSB2DL.js": "af2e2a99d7852344ce055fa9b9facb1efa4bb8f9",
+    "/chunk-BAGT6LPP.js": "972ddfe7f92f8276e6e47a21cf0cfd442999a427",
+    "/chunk-CLDSZD2A.js": "0728d2cc161cc8dcb025bbe89985aa0847082bae",
+    "/chunk-DVVH2KKN.js": "445bcf1de7b500fb354d0cf9c650ca914ab1bebc",
+    "/chunk-EBR2FFRC.js": "8e8c0ab70339abb1b28770bd6c59a475281620c7",
+    "/chunk-FA25AEA4.js": "67b189f290ca6770c1314e442b21f2feb4f64d07",
+    "/chunk-FNBMHXHF.js": "f6ffb4d46f1244b69d8180995b007606d97ec3e5",
+    "/chunk-H2UQMALX.js": "5bfa8889b730843b7089f9c008f264aae8ded0b2",
+    "/chunk-JH266P56.js": "0773f4bb2af9ccbf77566cb5cef6022ed13f1dae",
+    "/chunk-JHI3MBHO.js": "a36b3242848dc514776e1c7fd2cc5d64f3a737b2",
+    "/chunk-M2X7KQLB.js": "7610d018b4a45d32351f6d9f64fb4fa41b99fe9e",
+    "/chunk-M5P7WWVC.js": "9999f8eea64a1bd1cdd4f43918824e4755852bf6",
+    "/chunk-N5R6D5RA.js": "7d24570eb8be256218f5550d443cb9c5a624fd3c",
+    "/chunk-NCK4AMHI.js": "88375c12fd4e95685cc4b48d87d165f2b2c181dd",
+    "/chunk-NHXDGK5N.js": "cdde9fb1854106ba44b291ad4d5d368e062dcf4e",
+    "/chunk-NV3QH4JK.js": "5cb313d931fe5ddd2bb2299afd1f29d8b9d67422",
+    "/chunk-OZYWYLNK.js": "aa8e063201160038be9dc8bbbbe95177fc14c598",
+    "/chunk-P5FJYL7I.js": "378e08ae59db7507f3fbb1078f75fb15797c7895",
+    "/chunk-RSSLQG4E.js": "35c2fdf3746a903c10bf197fd136c2fed14a2df3",
+    "/chunk-ULUBRAOE.js": "9a1b7a7124e98ca9ae8cfcdeb031307dfe1611bb",
+    "/chunk-VI5DG32M.js": "7771e0400c0d22eb806bc948a758ee52fee190e6",
+    "/index.html": "7af322c1803f2fe16333558410132c49951f842d",
+    "/main-R5ITMSR2.js": "d86542d368ffef669ae580d62d21ef2dadf7280f",
+    "/manifest.webmanifest": "fb81eca7600f24098d171a805b3b3b96a401a80c",
+    "/polyfills-TDCRLYKL.js": "454f6db4230cc7ab61b24fe465dcc92bf041737d",
+    "/styles-6KTEQGYX.css": "17b3b370b6b6202072398ab0aece94733ee11279"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
